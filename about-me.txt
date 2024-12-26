@@ -1,5 +1,13 @@
-Please introduce yourself!
+¡Preséntate!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Su nombre:
+
+Víctor D. León Miranda.
+
+- Por qué te interesa el Desarrollo Web:
+
+La informática es mi hobby, y espero que este curso desarrolle más mi conocimientos en programación.
+
+- Un dato curioso sobre ti o un objetivo de este curso:
+
+Seguir aprendiendo en la programación.
