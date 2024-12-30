@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Samuel Castro González
+- Why you are interested in Web Development: For a few years now, I have been interested in programming, and that is why I want to keep learning so I can pursue a career in it.
+- One fun fact about yourself or a goal for this course: My main goal is to pursue a career in programming, and something to know about me is that I am very persistent, which will help me successfully complete this course.
