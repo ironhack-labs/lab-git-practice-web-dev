@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Aleksandra (Sasha) Kaniewa
+- Why you are interested in Web Development: I like creating something out of nothing, and I enjoy the challenges that come from developing.
+- One fun fact about yourself or a goal for this course: My goal for the course is to deepen my knowledge of JavaScript and be able to develop any project I set my miind to.
