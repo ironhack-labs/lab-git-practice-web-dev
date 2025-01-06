@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Sebna Omar Gutiérrez Rodríguez
+- Why you are interested in Web Development: I have been interested in programming and data analysis for a few years now, and I would like to complement it with my studies in psychology and human resources. To be able to compare both perfects I think it could enrich my professional profile, besides being able to create web must be incredible.
+- One fun fact about yourself or a goal for this course: I would love to be able to dedicate myself to development and have an inside view of what it means to be a developer.
