@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name:Fernando Pucha Paucar
+- Why you are interested in Web Development: El desarrollo web es una habilidad altamente demandada, y me interesa porque quiero formar parte de una industria que ofrece grandes oportunidades laborales y permite un continuo desarrollo profesional
+- One fun fact about yourself or a goal for this course: Mi objetivo principal es dominar las tecnologías fundamentales del desarrollo web, para poder crear proyectos interactivos y funcionales de manera profesional.
