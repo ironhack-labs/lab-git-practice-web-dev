@@ -1,5 +1,9 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: 
+Kilian Daniel Hernández Chirino
+- Why you are interested in Web Development: 
+I'm interested in web development because it offers a field with enormous potential for growth and opportunities.
+It is a highly sought-after skill, and I’m motivated by the idea of contributing to meaningful projects and growing professionally in this area.
+- One fun fact about yourself or a goal for this course: 
+I love sports and writing code while listening to classical music.
