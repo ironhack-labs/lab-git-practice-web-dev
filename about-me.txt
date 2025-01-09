@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Quint Antoine
+- Why you are interested in Web Development: I wanted to get to know more about web dev, both for the professional side of things but also because i enjoy solving problem.
+- One fun fact about yourself or a goal for this course: I have a terrible memory and i tend to forget absolutely everything, from my bag at the restaurant, to just simply eating diner.
