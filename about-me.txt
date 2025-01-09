@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Celina
+- Why you are interested in Web Development: Because I always found programming interesting and at home I am the one who "solves" every tech issue
+- One fun fact about yourself or a goal for this course: I find reasonimg for JS very hard, but somewhat I manage to complete the exercises
