@@ -1,5 +1,13 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
+- Your name: My name is David Emanuel Repetto
+- Why you are interested in Web Development: 
+Honestly, I want to change the professional direction of my life.
+I emigrated from Argentina 5 years ago and I trust that the way I am taking 
+is the right one. 🚀
 - One fun fact about yourself or a goal for this course:
+A curious fact may be that I can adapt a lot to circumstances,
+for example living in different countries,
+changing professions, understanding the moments of my life... 
+I have very interesting stories...
+My goal here is to graduate as a web developer and grow a lot in this world!
