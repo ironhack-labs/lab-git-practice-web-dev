@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Jihan Chamas
+- Why you are interested in Web Development:I'm interested in web development because it allows me to bring creative ideas to life online, creating engaging user experiences. I want to start my career in this domain because it offers constant growth through new technologies and problem-solving opportunities. I'm excited to contribute to impactful projects and develop valuable skills in the field.
+- One fun fact about yourself or a goal for this course: I used to hate everything regarding programming, i majored in mechanical engineering and even got my masters in this field, but 3 years later I began reading and watching programmers on youtube, i became so involved so i decided to take that road.
