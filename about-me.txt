@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Robert Muresan
+- Why you are interested in Web Development: Soy un apasionado por el mundo de la programación y me gustaria en un futuro muy cercano poder monetizar este hobby
+- One fun fact about yourself or a goal for this course: Acabar el curso, aprendiendo muchas cosas nuevas.
