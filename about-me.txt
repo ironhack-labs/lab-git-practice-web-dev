@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Kamran Ali
+- Why you are interested in Web Development: I’m interested in Web Development because I love creating interactive digital experiences. I want to enhance my skills and take the next step toward becoming a Full Stack Developer, and I thought this course would be a great starting point for that journey.
+- One fun fact about yourself or a goal for this course: One fun fact about me is that I’m currently learning German and aim to reach B1 level within a year. It’s been a challenging but exciting process!
