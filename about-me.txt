@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Samuel Onoja
+- Why you are interested in Web Development: It's my dream and I have been pursuing it, gradually getting there.
+- One fun fact about yourself or a goal for this course: Be a fullstack developer that can solve any problem easily!
