@@ -1,5 +1,8 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Jane Doe
+- Why you are interested in Web Development: I want to build amazing websites and we apps!
+- One fun fact about yourself or a goal for this course: I love painting landscapes.
+git add about-me.txt
+git commit -m "Added my personal introduction to about-me.txt"
+git push
