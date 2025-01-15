@@ -1,5 +1,11 @@
 Please introduce yourself!
 
-- Your name:
+- Your name: Mariah (Aline M Conceicao)
 - Why you are interested in Web Development:
+
+I’m passionate about Web Development because it combines creativity and problem-solving, allowing me to design user-friendly interfaces while bringing innovative ideas to life. I also enjoy how it connects design with technology, making it a perfect fit for my background and interests.
+
+
 - One fun fact about yourself or a goal for this course:
+
+My goal for this course is to enhance my skills in frontend and backend development, so I can confidently build full-stack applications and contribute to meaningful projects.
