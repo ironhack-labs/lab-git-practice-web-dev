@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Fernando Balseca
+- Why you are interested in Web Development: I would like to create web applications that are both interactive and elegant to capture the attention of clients and make them feel satisfied.
+- One fun fact about yourself or a goal for this course: I want to learn as much as possible about Java so that I can be well-prepared for the company and become an expert in development.
