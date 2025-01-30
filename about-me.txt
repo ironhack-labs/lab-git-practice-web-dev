@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Samuel Perez Besada
+- Why you are interested in Web Development: I want to build a web development career and work in it.
+- One fun fact about yourself or a goal for this course: I want to work in web development right after finishing this course.
