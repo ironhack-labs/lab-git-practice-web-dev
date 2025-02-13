@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Larissa Almeida 
+- Why you are interested in Web Development: First it is a grat brain workout! I really like mixing creativity with problem-solving skills.
+- One fun fact about yourself or a goal for this course: I expect to be able to develop my coding skills and land on a web dev job at the end of the course. 
