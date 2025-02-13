@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Ronan CANNY
+- Why you are interested in Web Development: Because I wanted to add a touch of “tech” to my career, and get the same feeling as the whole days I spent playing with and assembling and disassembling my own Lego creations when I was a kid. My ideal would be to create award-worthy sites on awwwards.com.
+- One fun fact about yourself or a goal for this course: Nothing funny, to be honest. I'm lucky enough to be on a sandwich course, so this training is paid for by a company, which also pays me a salary (the minimum, don't go overboard) and from the end of April I'll be a Tracking Specialist for Fifty-Five (a data company) until at least May 2026. It's not really a developer's job, but after 1 year without any opportunity, I had to accept this one. But I'm not giving up on the idea of becoming a developer, and I hope to take advantage of the bootcamp and this year as a work-study student to create a portfolio that matches my ambitions.
