@@ -1,5 +1,12 @@
 Please introduce yourself!
 
-- Your name:
+- Your name: Ferreira Vincent
+
 - Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+I have been passionate about computers since I was a child. I’ve always enjoyed tinkering with my PC, modifying different things, and exploring all the possibilities it offered. 
+Today, the internet plays a central role in everything, and I’m eager to contribute to its development in my own way. 
+I love programming and using logical thinking to solve problems. Seeing the tangible results of my work afterward gives me immense satisfaction.
+
+- One fun fact about yourself or a goal for this course: 
+When I was 10 years old, I created my first website with a friend using HTML and CSS. 
+It wasn’t great, it looked terrible and was hosted on an old free hosting platform, but I was so proud of it!
