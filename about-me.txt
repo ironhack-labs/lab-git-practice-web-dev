@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Jennifer MERAT
+- Why you are interested in Web Development: I am curious about how to build beautiful websites and application, and I want to build some !
+- One fun fact about yourself or a goal for this course: to know how to build an application 
