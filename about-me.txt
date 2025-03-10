@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Alexandru Ungureanu
+- Why you are interested in Web Development: I really like the idea of being a Web/Software Developer. I always like learning new things and I am always looking for new challenges.
+- One fun fact about yourself or a goal for this course: A goal for this course is to learn Java, but also just to learn how to create scalable web applications and how to work in that environment.
