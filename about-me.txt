@@ -1,5 +1,10 @@
 Please introduce yourself!
 
 - Your name:
+-- Pedram Ghane
+
 - Why you are interested in Web Development:
+-- I want to advance my career and become a professional Frontend Developer.
+
 - One fun fact about yourself or a goal for this course:
+-- My main goal is to learn JavaScript technologies really well.
