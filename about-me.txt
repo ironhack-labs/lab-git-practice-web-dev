@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Florian Wunsch 
+- Why you are interested in Web Development: I became interested in coding because of a group of game developers with whom I had the pleasure of exchanging ideas.
+- One fun fact about yourself or a goal for this course: I nearly got my self eaten by crocodiles when i was young.
