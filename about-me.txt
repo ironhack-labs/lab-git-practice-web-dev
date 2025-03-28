@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Midas van Soest
+- Why you are interested in Web Development: To broaden the scope of skills at my disposal
+- One fun fact about yourself or a goal for this course: Really get a feel and understanding for web development and create something cool within a team
