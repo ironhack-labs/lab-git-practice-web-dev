@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Natanael Corpas Rivero
+- Why you are interested in Web Development: Estoy interesado en aprende desarrollo web por varios motivos, el primero es porque me apasiona este mundo y segundo porque quiero trabar como desarollador web.
+- One fun fact about yourself or a goal for this course: Mi objetivo numero uno es aprender lo máximo posible para encontrar un trabajo como desarrollador.
