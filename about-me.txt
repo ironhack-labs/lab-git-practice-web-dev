@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Rishi G 
+- Why you are interested in Web Development: Due to the diversity in projects and to build websites and applications in the future
+- One fun fact about yourself or a goal for this course: My goal is to be a full stack developer that is also creative and knows the ins and outs 
