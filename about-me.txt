@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Raquel Costa
+- Why you are interested in Web Development: Because programming has always interested me and now I really want to learn to work with it.
+- One fun fact about yourself or a goal for this course: I studied psychology and didn't finish it because I knew programming and liked it a lot.
