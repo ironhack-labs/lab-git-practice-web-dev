@@ -1,5 +1,7 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
+- Your name: Andres Felipe Londoño Martinez
+- Why you are interested in Web Development: To improve my programming knowledge
+  and find a job in a related field.
 - One fun fact about yourself or a goal for this course:
+  I like to read books, specially fantasy and sci-fi.
