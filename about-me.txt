@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Sevda Sinem Kahraman  
+- Why you are interested in Web Development: I want to build a new career where I can combine creativity and problem-solving. Web development gives me the tools to create real, useful things from scratch — and that’s exciting.  
+- One fun fact about yourself or a goal for this course: My goal is to become a confident front-end developer and start working professionally within the next few months.
