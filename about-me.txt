@@ -1,5 +1,6 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Sakthi Karunya Rajendran
+- Why you are interested in Web Development: I'm joining a web development course to turn my creative ideas into interactive digital experiences. It’s my step toward building meaningful tools that live on the web and make life easier for others.
+
+- One fun fact about yourself or a goal for this course: A goal for this course is to land a job while creating exciting projects.
