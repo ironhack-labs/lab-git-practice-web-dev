@@ -1,5 +1,10 @@
 Please introduce yourself!
 
 - Your name:
+  Miquel Piña Grau
+
 - Why you are interested in Web Development:
+  I want to build amazing websites and web apps!
+
 - One fun fact about yourself or a goal for this course:
+  One goal I have for this course is to build confidence in my coding skills, and a fun fact about me is that I love taking my dog for walks.
