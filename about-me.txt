@@ -1,5 +1,6 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: 
+Dídac Ódena
+- Why you are interested in Web Development: I'm interested because I've always been fascinated by computers, and I want to develop my potential.
+- One fun fact about yourself or a goal for this course: I hope to learn as much as possible to become a good developer and start my professional career.
