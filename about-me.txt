@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Yanqing Yang
+- Why you are interested in Web Development:I just enjoy hitting the keys.
+- One fun fact about yourself or a goal for this course:My goal for this course is to learn how to create a fun website.
