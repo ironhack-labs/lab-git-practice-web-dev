@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Fabian Dietrich
+- Why you are interested in Web Development: Looking to work effectively with development teams as a UI / UX designer
+- One fun fact about yourself or a goal for this course: I already have a t-shirt with the IronHack logo on it that just kind of appeared from I don't know where and has been in my wardrobe since long before I considered taking a course with IronHack
