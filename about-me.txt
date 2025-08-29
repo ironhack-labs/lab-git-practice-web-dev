@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Vera Fileyeva
+- Why you are interested in Web Development: Want to work in IT, create nice and useful web-applications
+- One fun fact about yourself or a goal for this course: during this course I would like to get confident with git as much as possible.
