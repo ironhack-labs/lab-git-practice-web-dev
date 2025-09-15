@@ -1,5 +1,7 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
+- Your name: Keanu Riechel
+- Why you are interested in Web Development: 
+ "I want to understand the fundamentals of coding for front end so that when I am editing Websites for my business that I will know and understand the language in its most basic form"
 - One fun fact about yourself or a goal for this course:
+"To get my first client and focus on growing my business to then quit my job and move back to my home country"
