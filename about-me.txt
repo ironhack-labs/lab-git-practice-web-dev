@@ -3,3 +3,5 @@ Please introduce yourself!
 - Your name: Pau Serrano Herraiz
 - Why you are interested in Web Development: I've always found it very interesting, but i'd never taken the stape of trying to learn it
 - One fun fact about yourself or a goal for this course: I really want to dedicate myself to this!!! 
+
+hola
