@@ -1,5 +1,6 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Álvaro Dobarro
+- Why you are interested in Web Development: orque quiero crear proyectos reales y vivir de la tecnología.
+- One fun fact about yourself or a goal for this course: El objetivo principal de este bootcamp es dominar la programación y el maneo de ingeniería IA
+
