@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Joan Jimenez Camps
+- Why you are interested in Web Development: I want to advance in my professional development. Wep development motivates me and helps me move forward. 
+- One fun fact about yourself or a goal for this course: I'm a gamer, I have a good PC that I built myself so I can play almost anything, which helps me with the programming for the Bootcamp. I would like to finish the Bootcamp so I can get a good job.
