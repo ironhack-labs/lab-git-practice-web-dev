@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Andres Gonzalez Perez
+- Why you are interested in Web Development: Because I want to creat dynamics web and apps.
+- One fun fact about yourself or a goal for this course: I would want to be able to create software that can help people.
