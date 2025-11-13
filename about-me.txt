@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Pablo Queiroz
+- Why you are interested in Web Development: It's an area I admire, and I've always wanted to be a part of it.
+- One fun fact about yourself or a goal for this course:As I mentioned before, I've always admired it. And besides, I dream of having a career in tech, but I never tried before because I could never afford to stop working to study. Now I've risked everything, quitting a job where I was unhappy to try and follow this dream.
