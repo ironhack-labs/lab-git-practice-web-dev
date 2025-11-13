@@ -1,5 +1,6 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
+- Your name: Victor Mosqueda
+- Why you are interested in Web Development: Wanna get back to work as a developer. Joining ironhack will give me 
+all the necessary tools to make it!
 - One fun fact about yourself or a goal for this course:
