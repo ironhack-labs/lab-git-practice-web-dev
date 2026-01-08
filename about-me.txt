@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Ben Joe Mathews
+- Why you are interested in Web Development: I am originally an iOS application developer. I want to expand my skill into other technical domains. I found Web developement interesting especially when it combines with databases and backend. 
+- One fun fact about yourself or a goal for this course: My main goal for this course is to explore other frontend frameworks like Angular and Veu after learning React in this course and also learn Typescript too. I would like to explore more on relational databases as well and become a full stack developer.
