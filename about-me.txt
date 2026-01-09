@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Annabelle Benedicti
+- Why you are interested in Web Development:I’m interested in it because it combines logic and creativity, and I would like to learn how to build an app from A to Z.
+- One fun fact about yourself or a goal for this course: I wasn’t a computer person at first and had never really been into maths or anything similar. However, while learning on my own last year, I discovered that I was very patient when learning how to code, which sparked my curiosity and my desire to learn more.
