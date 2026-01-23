@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Arthur Souza Jorge
+- Why you are interested in Web Development: Because I really like computers and programming, and also want to follow a career that lets me work from home
+- One fun fact about yourself or a goal for this course: Fun fact or Goal is that I never got to travel alot my hole life because I was always studying and working, so I really wanna dedicate myself to be the best Dev I can so in the future I can have flexibility from where I work and go travel around the world.
