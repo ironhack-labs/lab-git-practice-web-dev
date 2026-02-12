@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Jose Armando Granados Díaz
+- Why you are interested in Web Development: I like programming and i want to be full-stack
+- One fun fact about yourself or a goal for this course: I love videogames and anime/manga
