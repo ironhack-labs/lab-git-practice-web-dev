@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Cesar Andres Galan Segovia 
+- Why you are interested in Web Development: Because i love working using logic, i love solving problems and constantly thinking about better ways to do things 
+- One fun fact about yourself or a goal for this course: My goal for this course is to improve my skills on the MERN stack and find my first job as a frontend developer
