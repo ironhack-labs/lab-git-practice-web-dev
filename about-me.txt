@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Leonidas
+- Why you are interested in Web Development: Web development is one of the careers that would allow me to work remotely.
+- One fun fact about yourself or a goal for this course: Eventually, I would like to become good at web development and create websites and web applications that are going to be useful for people.
