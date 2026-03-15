@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Laura Sanchez Gonzalez
+- Why you are interested in Web Development: Estoy interesada porque cuando finalice el bootcamp de analista de datos y especialista en IA, en el proyecto final, creamos una aplicación y una compañera me estuvo enseñando a crear el frontend y me gustó mucho. y ya que estoy iniciandome en este sector me gustaría completar el pack con este curso que considero puede abrirme muchas puertas profesionalmente.
+- One fun fact about yourself or a goal for this course: mi objetivo para este curso es aprender a construir aplicaciones web útiles.
