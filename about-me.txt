@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Javier Esteban
+- Why you are interested in Web Development: I love learning new things!
+- One fun fact about yourself or a goal for this course: I want to make pages related to electrical engineering
