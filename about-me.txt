@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Oluyemi Ogunbadejo
+- Why you are interested in Web Development: I'm interested in problem solving, and I'd like to land a job in the industry
+- One fun fact about yourself or a goal for this course: My goal for this course is to build the foundations to make projects, and build a solid portfolio.
