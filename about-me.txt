@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Yena Kim Choi
+- Why you are interested in Web Development: I enjoy building user-focused web experiences and improving websites through data and analytics.
+- One fun fact about yourself or a goal for this course: I want to become a Front-End Developer specializing in Web Analytics.
