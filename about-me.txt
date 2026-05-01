@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Onyebueke Faith Chinonye
+- Why you are interested in Web Development: I am interested in Web Development because it is challanging and I find its idea interesting, the idea of making things to work.
+- One fun fact about yourself or a goal for this course: To become  FullStack Developer and land my first developer job.
