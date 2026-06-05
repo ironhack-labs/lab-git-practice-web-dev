@@ -1,5 +1,11 @@
-Please introduce yourself!
+About Me
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+My name is Okorie Chibuike Seed.
+
+Why I Am Interested in Web Development
+
+I am interested in web development because I enjoy creating interactive websites and learning how technology can solve real-world problems.
+
+ Goal for This Course
+
+My goal for this course is to build a professional portfolio website by the end of the semester.
