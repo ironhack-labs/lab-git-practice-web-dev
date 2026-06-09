@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Sueda
+- Why you are interested in Web Development: I want to build interactive, user-friendly websites and learn to create web applications that solve real problems.
+- One fun fact about yourself or a goal for this course: A goal for this course is to improve my HTML, CSS, and JavaScript skills and to publish my first portfolio project.
