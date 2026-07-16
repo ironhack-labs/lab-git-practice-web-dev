@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Mobina
+- Why you are interested in Web Development: I want to expand my existing programming skills to build interactive, user-facing applications. 
+- One fun fact about yourself or a goal for this course: I recently produce a podcast and I want to make really cool website for it.
