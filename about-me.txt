@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Alejandra Almonacid
+- Why you are interested in Web Development: Because I would like to land my next job as a design engineer. 
+- One fun fact about yourself or a goal for this course: My goal would be to create from scratch a beautiful Web portpolio. 
