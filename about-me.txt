@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name:Andre Mendes
+- Why you are interested in Web Development: I find coding extremly fascinating, it's sometimes challenging but being able to solve problems feels good!
+- One fun fact about yourself or a goal for this course: My goal is to be able to finish this bootcamp confortable with its content and get a job in the industry.
