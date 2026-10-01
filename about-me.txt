@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Ainhoa González
+- Why you are interested in Web Development: I am interested in Web Development because I enjoy creating digital projects and learning how to build useful applications from scratch.
+- One fun fact about yourself or a goal for this course: My goal for this course is to improve my programming skills and become a professional web developer.
