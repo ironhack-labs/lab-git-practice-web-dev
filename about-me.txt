@@ -1,5 +1,14 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
+- Your name: Leonardo Montoya Vargas
+
+- Why you are interested in Web Development: I have been always intrigate in coding, since my brother become engineer, 
+i have been follow each step and i always wanted to learn how to code, to be able to understand and be able to code my owns apps or systems .
+
+
 - One fun fact about yourself or a goal for this course:
+
+My goals in this course is to learn the basics and learn from 0 to understand each code , I have the idea of the logic since i had develop some apps and webs half coding and half with ai help, 
+but when i had errors i could find it by my self because i didnt have the basics to understand the code.
+
+im not sure if this is gonna be read by someone but in summary ,I want to improve my self to be able to become a real developer and work in real proyects.
