@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Eloy
+- Why you are interested in Web Development: I always loved it!
+- One fun fact about yourself or a goal for this course: I made my very first website in 2016 with phpNuke
