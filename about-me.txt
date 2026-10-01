@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Isaac Veloso
+- Why you are interested in Web Development: I want to understand how websites and applications are built. I enjoy learning new skills, and Im excited to become more confident with coding.
+- One fun fact about yourself or a goal for this course: My goal for this course is to build a solid foundation in web development, improve my problem-solving skills, and gain the confidence to create my own projects and pursue a career in tech.
