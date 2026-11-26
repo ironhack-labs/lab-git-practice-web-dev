@@ -1,5 +1,6 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Mohammad Aldimashki
+- Why you are interested in Web Development: I find it exciting to be able to turn ideas into something real and interactive.
+- One fun fact about yourself or a goal for this course: My goal is to mroe about web development, improve my skills, and eventually build my own website ad apps
+
